@@ -1,0 +1,1 @@
+lucene==6.5.0 library is required to use KnoMaProc. To insall it please see details at the library site: https://lucene.apache.org/pylucene/install.html .

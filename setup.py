@@ -18,7 +18,6 @@ setup(
 'functools32==3.2.3.post2',
 'idna==2.6',
 'isodate==0.6.0',
-'lucene==6.5.0',
 'lupyne==2.0',
 'matplotlib==2.0.0',
 'networkx==1.11',
